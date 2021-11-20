@@ -1,35 +1,17 @@
 ---
+id: intro
+title: Intro
 sidebar_position: 1
+slug: /
 ---
 
-# Tutorial Intro
+# Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's discover **SkillZone**.
 
-## Getting Started
+## Invite the Bot
+First you must add the bot to your Discord Server. You can invite the bot [here](https://www.example.com)
 
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**:
-
-```shell
-npm init docusaurus@latest my-website classic
-```
-
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and displays your changes.
+## Config
+To have the bot perfectly matched to your server, you should now change a few things in the config.
+Firstly you should change the primary language of the bot. [Click here to see how it works!](/config/language)
