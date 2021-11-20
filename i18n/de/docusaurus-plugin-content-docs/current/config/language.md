@@ -1,6 +1,7 @@
 ---
 id: language
 title: Language
+sidebar_position: 1
 ---
 
 # Language
@@ -13,5 +14,5 @@ Die Standardsprache ist **Englisch**.
 
 ![Pic](/img/config_lang.gif)
 
-# Rechte
+## Rechte
 `ADMINISTRATOR`

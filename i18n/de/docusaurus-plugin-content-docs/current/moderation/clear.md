@@ -1,9 +1,10 @@
 ---
 id: clear
 title: Clear
+sidebar_position: 3
 ---
 
-# Language
+# Clear
 With **SkillZone** you can easily clear up to 100 messages from a chat or a member.
 
 ## How to use?
@@ -17,7 +18,7 @@ With **SkillZone** you can easily clear up to 100 messages from a chat or a memb
 
 ![pic](/img/moderation_clear_member.gif)
 
-# Rechte
+## Rechte
 `NACHRICHTEN VERWALTEN`
 
 

@@ -1,6 +1,6 @@
 ---
 id: privacy
-title: privacy policy
+title: Privacy Policy
 sidebar_position: 5
 ---
 

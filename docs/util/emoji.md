@@ -3,7 +3,7 @@ id: emoji
 title: Emoji
 ---
 
-# Language
+# Emoji
 With **SkillZone** you can add emojis to your guild!.
 
 ## How to use?
@@ -11,5 +11,5 @@ With **SkillZone** you can add emojis to your guild!.
 
 ![Pic](/img/util_emoji.gif)
 
-# Permissions
+## Permissions
 `MANAGE EMOJIS AND STICKERS`
