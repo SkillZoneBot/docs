@@ -1,18 +1,32 @@
 ---
 id: privacy
-title: Privacy Policy
+title: Datenschutz
 sidebar_position: 5
 ---
 
-## Was sammelt SkillZone an Daten?
-- ServerID
-- Sprache
-- Badword
-- Nutzer ID
-- Afk Status
+## Was sammelt Tenpa an Daten?
+- ServerID's
+- User ID's
+- Role ID's
+- Channel ID's
+- Language
+- Badwords
+- Ob der Anti-Link deaktiviert/aktiviert ist
+- Afk Status Nachricht
 
-## Warum sammelt SkillZone diese Daten?
-Wir müssen diese Daten speichern, da der Bot sonst nicht richtig funktionieren würde. Sie müssten also nach jedem Neustart alles neu konfigurieren.
+## Warum sammelt Tenpa diese Daten?
+Wir müssen diese Daten speichern, sonst funktioniert der Bot nicht richtig. Sie müssten nach jedem Neustart alles neu konfigurieren.
+
+## Wer hat Zugang zu diesen Daten?
+Nur die Gründer des Bot haben Zugriff auf die Datenbank
+
+## Wo werden die Daten gespeichert?
+Die Daten werden in der MongoDb-Cloud gespeichert.
 
 ## Kann ich meine Daten löschen lassen?
-Ja, du musst dich auf unserem Discord Server beitreten und ein Ticket eröffnen.
+Ja. Du musst unseren Discord Server beitreten und ein Ticket eröffnen.
+
+## Können Sie ein Beispiel für einen Datenbankeintrag zeigen?
+Ja, natürlich!
+
+![Pic](/img/db.png)

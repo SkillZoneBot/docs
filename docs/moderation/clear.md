@@ -5,7 +5,7 @@ sidebar_position: 3
 ---
 
 # Clear
-With **SkillZone** you can easily clear up to 100 messages from a chat or a member.
+With **Tenpa** you can easily clear up to 100 messages from a chat or a member.
 
 ## How to use?
 #### Clear chat

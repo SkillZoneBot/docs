@@ -5,7 +5,7 @@ sidebar_position: 2
 ---
 
 # Badwords
-Mit **SkillZone** kannst du ganz einfach Wörter blockieren, von denen du nicht möchtest, dass sie jemand sendet.
+Mit **Tenpa** kannst du ganz einfach Wörter blockieren, von denen du nicht möchtest, dass sie jemand sendet.
 
 
 ## Wie fügt man ein Badword hinzu?

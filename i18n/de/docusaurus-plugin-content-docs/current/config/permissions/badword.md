@@ -5,17 +5,17 @@ sidebar_position: 2
 ---
 
 # Badword
-With **Tenpa** you can set permissions for users, so they can send badwords.
+Mit **Tenpa** können Sie Berechtigungen für Benutzer festlegen, so dass diese Badwords senden können.
 
 
-## How to set permissions?
+## Wie werden Berechtigungen festgelegt?
 `/config setting: Permissions`
 
-## How to I add permissions?
+## Wie werden Berechtigungen festgelegt?
 
 ![Pic](/img/config_permissions_badword_add.gif)
 
-## How to I remove permissions?
+## Wie werden Berechtigungen festgelegt?
 
 ![Pic](/img/config_permissions_badword_remove.gif)
 

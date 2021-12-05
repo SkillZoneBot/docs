@@ -7,10 +7,10 @@ slug: /
 
 # Intro
 
-Let's discover **SkillZone**.
+Let's discover **Tenpa**.
 
 ## Invite the Bot
-First you must add the bot to your Discord Server. You can invite the bot [here](https://discord.com/api/oauth2/authorize?client_id=710539381433434163&permissions=413592316998&scope=bot%20applications.commands)
+First you must add the bot to your Discord Server. You can invite the bot [here](https://discord.com/api/oauth2/authorize?client_id=917087942604910622&permissions=405848582390&scope=bot%20applications.commands)
 
 ## Config
 To have the bot perfectly matched to your server, you should now change a few things in the config.

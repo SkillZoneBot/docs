@@ -5,17 +5,17 @@ sidebar_position: 2
 ---
 
 # Antilink
-With **Tenpa** you can set permissions for users and channels, so they can send links.
+Mit **Tenpa** kannst du Berechtigungen für Benutzer und Kanäle festlegen, damit diese Links senden können.
 
 
-## How to set permissions?
+## Wie werden Berechtigungen festgelegt?
 `/config setting: Permissions`
 
-## How to I add permissions?
+## Wie kann ich Berechtigungen hinzufügen?
 
 ![Pic](/img/config_permissions_antilink_add.gif)
 
-## How to I remove permissions?
+## Wie kann ich Berechtigungen löschen?
 
 ![Pic](/img/config_permissions_antilink_remove.gif)
 

@@ -5,7 +5,7 @@ sidebar_position: 2
 ---
 
 # Kick
-With **SkillZone** you can kick members from your discord server.
+With **Tenpa** you can kick members from your discord server.
 
 ## How to use?
 `/kick member: member reason: reason for the kick`

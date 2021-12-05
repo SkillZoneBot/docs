@@ -5,10 +5,10 @@ sidebar_position: 2
 ---
 
 # Antilink
-With **Tenpa** you can easily block links.
+Mit **Tenpa** kannst du ganz einfach Links blockieren.
 
 
-## How to activate the system?
+## Wie wird das System aktiviert?
 `/config setting: Anti-link` and then click on `activate`
 
 ![Pic](/img/config_antilink_on.gif)

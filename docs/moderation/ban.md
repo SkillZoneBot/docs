@@ -5,7 +5,7 @@ sidebar_position: 1
 ---
 
 # Ban
-With **SkillZone** you can ban members from your discord server.
+With **Tenpa** you can ban members from your discord server.
 
 ## How to use?
 `/ban member: member reason: reason for the ban`

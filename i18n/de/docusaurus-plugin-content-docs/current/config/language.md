@@ -5,7 +5,7 @@ sidebar_position: 1
 ---
 
 # Language
-Mit **SkillZone** kannst du ganz einfach die Sprache auf **Englisch** und **Deutsch** umstellen.
+Mit **Tenpa** kannst du ganz einfach die Sprache auf **Englisch** und **Deutsch** umstellen.
 
 Die Standardsprache ist **Englisch**.
 

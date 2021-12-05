@@ -4,7 +4,7 @@ title: Privacy Policy
 sidebar_position: 5
 ---
 
-## What is SkillZone collecting on data?
+## What is Tenpa collecting on data?
 - ServerID's
 - User ID's
 - Role ID's
@@ -14,7 +14,7 @@ sidebar_position: 5
 - If the Anti-Link is deactivated/activated
 - Afk Status Message
 
-## Why is SkillZone collecting this data?
+## Why is Tenpa collecting this data?
 We need to save this data, otherwise the bot will not work properly. You would have to reconfigure everything after every restart.
 
 ## Who has access to this data?

@@ -5,7 +5,7 @@ sidebar_position: 1
 ---
 
 # Emoji
-Mit **SkillZone** kannst du Emojis zu deiner Gilde hinzufügen!
+Mit **Tenpa** kannst du Emojis zu deiner Gilde hinzufügen!
 
 ## Wie verwendet man den Command?
 `/emoji emoji: :emoji:`

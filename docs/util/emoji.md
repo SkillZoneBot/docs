@@ -4,7 +4,7 @@ title: Emoji
 ---
 
 # Emoji
-With **SkillZone** you can add emojis to your guild!.
+With **Tenpa** you can add emojis to your guild!.
 
 ## How to use?
 `/emoji emoji: :emoji:`

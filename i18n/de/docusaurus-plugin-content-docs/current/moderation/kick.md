@@ -5,7 +5,7 @@ sidebar_position: 2
 ---
 
 # Kick
-Mit **SkillZone** kannst du Nutzer deines Discord Servers kicken.
+Mit **Tenpa** kannst du Nutzer deines Discord Servers kicken.
 
 ## Wie verwendet man den Command?
 `/kick member: member reason: grund für den kick`
